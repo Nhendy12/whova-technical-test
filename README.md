@@ -10,5 +10,5 @@ lookup_agenda.py:
   - Quereies local database based off of input and prints all rows that match
 
 How to run:
-  - Run program as follows: ./import_agenda.py 'filename'.xls
-  - Run program as follows: ./lookup_agenda.py column value
+  - Run program as follows: python ./import_agenda.py 'filename'.xls
+  - Run program as follows: python ./lookup_agenda.py column value
